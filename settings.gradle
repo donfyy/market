@@ -1,0 +1,4 @@
+include ':market_api'
+include ':market_module'
+include ':app'
+rootProject.name = "market"
